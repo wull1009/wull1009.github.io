@@ -77,6 +77,10 @@
 .archive__item:hover {
   .archive__item-teaser {
     box-shadow: 0 0 10px rgba(#000, 0.25);
+    img{
+    width: 500px;
+    height: 300px;
+    }
   }
 
   .archive__item-title {
