@@ -11,49 +11,30 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Faculty of Science, Beijing University of technology, 2024 (expected)
+
+Research experience
+======
+* 07/2023 -- Now: Undergraduate Researcher
+  *  Chinese Academy of Sciences 
+  * Duties included: on-site sampling, data annotation, model training and objection detection
+  * Supervisor: Doctor Wang, Qi
+
+* 05/2023 -- Now: Undergraduate Researcher
+  * Beijing University of Technology
+  * Duties included: data cleaning, multivariate change-point detection
+  * Supervisor: Doctor Lan, Hui
+
+* 10/2022 -- Now: Undergraduate Researcher
+  * Beijing University of Technology
+  * Duties included: generalized calibration method, apply gaussian processes as surrogate model
+  * Supervisor: Doctor Wang, Yan
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2022: Data Analyst
+  * Guorong Securities
+  * Duties included: data cleaning, Researching the workplace, Forecasting job applications by using time series modeling & LSTM modeling
+  * Supervisor: Ms. Wu, Yu
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
