@@ -224,7 +224,7 @@ defaults:
   # _Life&Hobbies
    - scope:
       path: ""
-      type: Life & Hobbies
+      type: Life&Hobbies
     values:
       layout: single
       author_profile: true
