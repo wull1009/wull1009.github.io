@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I'm a senior undergraduate student from [Faculty of science](https://slxy.bjut.edu.cn/), [Beijing University of Technology](https://www.bjut.edu.cn/). My research interest includes 
+I'm a senior undergraduate student from [Faculty of science](https://slxy.bjut.edu.cn/), [Beijing University of Technology](https://www.bjut.edu.cn/). My research interest includes high-dimensional data, multivariate change-point detection, gaussian process, biostatistics, epidemic, machine learning, deep learning.
+
 
 You can find my CV here: [Wu's Curriculum Vitae](../assets/CV-Linlin%20Wu.pdf).
 
