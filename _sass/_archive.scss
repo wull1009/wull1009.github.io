@@ -67,12 +67,10 @@
 }
 
 .archive__item-teaser {
-  max-width: 500px;
-  max-height: 300px;
+  border-radius: $border-radius;
   overflow: hidden;
-
   img {
-    width: 100%;
+    max-width: 500px;
     height: auto;
   }
 }
