@@ -10,7 +10,7 @@ locale                   : "Beijing, China"
 title                    : "Home"
 title_separator          : "-"
 name                     : &name "Linlin Wu"
-description              : &description "我是黄鸣奕的宝宝"
+description              : &description "BJUT senior student"
 url                      : https://wull1009.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "wull1009/wull1009.github.io"
@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
-  email            : xxx@gmail.com
+  email            : wulinlin2024@163.com
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
