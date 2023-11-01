@@ -187,9 +187,6 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
-  Life&Hobbies:
-    output: true
-    permalink: /:collection/:path/
 
 
 # Defaults
@@ -216,15 +213,6 @@ defaults:
   - scope:
       path: ""
       type: teaching
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
-  # _Life&Hobbies
-   - scope:
-      path: ""
-      type: Life&Hobbies
     values:
       layout: single
       author_profile: true
