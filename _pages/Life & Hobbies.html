@@ -1,1 +1,12 @@
+---
+layout: archive
+title: "Life%20&%20Hobbies"
+permalink: /Life%20&%20Hobbies/
+author_profile: true
+---
 
+{% include base_path %}
+
+{% for post in site.teaching reversed %}
+  {% include archive-single.html %}
+{% endfor %}
