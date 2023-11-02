@@ -21,4 +21,3 @@ redirect_from:
 </table>
 
 
-## Piano
