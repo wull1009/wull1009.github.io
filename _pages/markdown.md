@@ -8,6 +8,17 @@ redirect_from:
 ---
 
 ## Travel
-![](../images/500x300.png)
+<table>
+    <tr>
+        <td ><center><img src="../images/Life1.jpg"></center></td>
+        <td ><center><img src="../images/Life2.jpg"></center></td>
+    </tr>
+
+    <tr>
+        <td ><center><img src="../images/Life3.jpg"></center></td>
+        <td ><center><img src="../images/Life4.jpg"></center> </td>
+    </tr>
+</table>
+
 
 ## Piano
