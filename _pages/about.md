@@ -13,7 +13,5 @@ I'm a senior undergraduate student from [Faculty of science](https://slxy.bjut.e
 
 You can find my CV here: [Wu's Curriculum Vitae](../assets/CV-Linlin%20Wu.pdf).
 
-[Email](wulinlin2024@163.com) / [Github](www.github.com/wull1009) / [Telephone](+86-15210385618)
-
 **I am currently in the process of applying to PhD programs for Fall 2024 and am actively seeking potential opportunities. Please feel free to reach out to me via email if you have any openings or suggestions.**
 
