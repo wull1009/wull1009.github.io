@@ -1,14 +1,11 @@
 ---
-
 permalink: /
 title: "About Me"
 excerpt: "About Me"
 author_profile: true
 redirect_from:
-
 -/about/
 -/about.html
-
 ---
 
 I am a third year Ph.D. student in Biostatistics at Emory University, advised by Prof. Julia Wrobel. I received my B.S. in Statistics with a minor in Computer Science and Technology from [Beijing University of Technology](https://www.bjut.edu.cn/) in 2024.
