@@ -1,17 +1,20 @@
 ---
+
 permalink: /
-title: "About me"
-excerpt: "About me"
+title: "About Me"
+excerpt: "About Me"
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
+redirect_from:
+
+* /about/
+* /about.html
+
 ---
 
-I'm a senior undergraduate student from [Faculty of science](https://slxy.bjut.edu.cn/), [Beijing University of Technology](https://www.bjut.edu.cn/). My research interest includes high-dimensional data, multivariate change-point detection, gaussian process, biostatistics, epidemic, machine learning, deep learning.
+I am a third year Ph.D. student in Biostatistics at Emory University, advised by Prof. Julia Wrobel. I received my B.S. in Statistics with a minor in Computer Science and Technology from [Beijing University of Technology](https://www.bjut.edu.cn/) in 2024.
 
+My research focuses on statistical learning for complex temporal and functional data. In particular, I am interested in functional data analysis, functional registration, dimension reduction, causal inference, time-series modeling, change-point detection, and Gaussian processes. My current work develops statistical and computational methods for the registration and analysis of binary functional data, with applications to large-scale accelerometer and physical activity data.
 
-You can find my full CV here: [Wu's Curriculum Vitae](../assets/CV-Linlin%20Wu.pdf).
+Previously, I worked on high-dimensional multivariate change-point detection, Gaussian process calibration for expensive computer models, and deep learning methods for object detection in remote sensing imagery.
 
-**I am currently in the process of applying to PhD programs for Fall 2024 and am actively seeking potential opportunities. Please feel free to reach out to me via email if you have any openings or suggestions.**
-
+You can find my full CV here: [Linlin Wu's Curriculum Vitae](../assets/CV-Linlin%20Wu.pdf).
