@@ -6,11 +6,11 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "Beijing, China"
+locale                   : "Beijing, China & Atlanta, GA, U.S."
 title                    : "Home"
 title_separator          : "-"
 name                     : &name "Linlin Wu"
-description              : &description "BJUT senior student"
+description              : &description "3rd Year PhD Student @ Emory"
 url                      : https://wull1009.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "wull1009/wull1009.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Linlin Wu"
   avatar           : "profile.png"
-  bio              : "Beijing University of Technology"
-  location         : "China Beijing"
+  bio              : "Emory University"
+  location         : "Beijing, China & Atlanta, GA, U.S."
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
