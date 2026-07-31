@@ -67,7 +67,7 @@ redirect_from:
 </div>
 
 <div style="display: flex; align-items: flex-start; gap: 20px; margin-bottom: 32px;">
-  <img src="/images/cas-logo.png" alt="Chinese Academy of Sciences Logo" width="90" style="object-fit: contain;">
+  <img src="/images/cas.webp" alt="Chinese Academy of Sciences Logo" width="90" style="object-fit: contain;">
   <div>
     <strong>YOLOX-Based Livestock Object Detection in Remote Sensing Imagery</strong><br>
     <em>Researcher, Chinese Academy of Sciences</em><br>
@@ -100,7 +100,7 @@ redirect_from:
 # Work Experience
 
 <div style="display: flex; align-items: flex-start; gap: 20px; margin-bottom: 32px;">
-  <img src="/images/bytedance-logo.png" alt="ByteDance Logo" width="90" style="object-fit: contain;">
+  <img src="/images/bytedance.webp" alt="ByteDance Logo" width="90" style="object-fit: contain;">
   <div>
     <strong>ByteDance</strong><br>
     <em>Datacenter Operations Engineer Intern, Global Monetization – Business Integrity</em><br>
