@@ -67,7 +67,7 @@ redirect_from:
 </div>
 
 <div style="display: flex; align-items: flex-start; gap: 20px; margin-bottom: 32px;">
-  <img src="/images/cas.webp" alt="Chinese Academy of Sciences Logo" width="90" style="object-fit: contain;">
+  <img src="/images/cas.png" alt="Chinese Academy of Sciences Logo" width="90" style="object-fit: contain;">
   <div>
     <strong>YOLOX-Based Livestock Object Detection in Remote Sensing Imagery</strong><br>
     <em>Researcher, Chinese Academy of Sciences</em><br>
