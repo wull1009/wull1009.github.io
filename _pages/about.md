@@ -14,4 +14,4 @@ My research centers on statistical learning for complex temporal and functional 
 
 Previously, I worked on high-dimensional multivariate change-point detection, Gaussian process calibration for expensive computer models, and deep-learning methods for object detection in remote sensing imagery.
 
-You can find my full CV here: [Linlin Wu's Curriculum Vitae](../assets/CV-Linlin%20Wu.pdf).
+You can find my full CV here: [Linlin Wu's Curriculum Vitae](../assets/Wu%20CV.pdf).
