@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student in Biostatistics at Emory University, advised by Prof. Julia Wrobel. I received my B.S. in Statistics with a minor in Computer Science and Technology from [Beijing University of Technology](https://www.bjut.edu.cn/) in 2024.
+I'm currently a third year Ph.D. student in Biostatistics at [Emory University](https://www.emory.edu/), advised by Prof. Julia Wrobel. I received my B.S. in Statistics with a minor in Computer Science and Technology from [Beijing University of Technology](https://www.bjut.edu.cn/) in 2024.
 
 My research focuses on statistical learning for complex temporal and functional data. In particular, I am interested in functional data analysis, functional registration, dimension reduction, causal inference, time-series modeling, change-point detection, and Gaussian processes. My current work develops statistical and computational methods for the registration and analysis of binary functional data, with applications to large-scale accelerometer and physical activity data.
 
