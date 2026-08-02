@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "Beijing, China & Atlanta, GA, U.S."
+locale                   : "Atlanta, GA, U.S."
 title                    : "Home"
 title_separator          : "-"
 name                     : &name "Linlin Wu"
@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
-  email            : wulinlin2024@163.com
+  email            : lwu235@emory.edu
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
