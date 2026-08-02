@@ -100,7 +100,7 @@ redirect_from:
 # Work Experience
 
 <div style="display: flex; align-items: flex-start; gap: 20px; margin-bottom: 32px;">
-  <img src="/images/bytedance.webp" alt="ByteDance Logo" width="90" style="object-fit: contain;">
+  <img src="/images/bytedance.jpeg" alt="ByteDance Logo" width="90" style="object-fit: contain;">
   <div>
     <strong>ByteDance</strong><br>
     <em>Datacenter Operations Engineer Intern, Global Monetization – Business Integrity</em><br>
